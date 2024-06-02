@@ -1,6 +1,6 @@
 import React from 'react';
 import SectionTitleTwo from '../../components/SectionTitles/SectionTitleTwo';
-import useMasonry from "../../hooks/use-masonry";
+// import useMasonry from "../../hooks/use-masonry";
 // import WorkFilter from "../../components/Work/WorkFilter";
 import WorkItem from "../../components/Work/WorkItem";
 import workData from '../../data/work/workDetails.json';
