@@ -1,7 +1,7 @@
 import React from 'react';
 import SectionTitleTwo from '../../components/SectionTitles/SectionTitleTwo';
 import useMasonry from "../../hooks/use-masonry";
-import WorkFilter from "../../components/Work/WorkFilter";
+// import WorkFilter from "../../components/Work/WorkFilter";
 import WorkItem from "../../components/Work/WorkItem";
 import workData from '../../data/work/workDetails.json';
 import {slugify} from "../../utils";
@@ -11,7 +11,7 @@ const Portfolio = () => {
 
     // Isotope Categories list JS
 
-    const {categories} =  useMasonry(workData, ".mesonry-list", ".masonry-grid", ".messonry-button", ".messonry-button button")
+    // const {categories} =  useMasonry(workData, ".mesonry-list", ".masonry-grid", ".messonry-button", ".messonry-button button")
 
 
     return (

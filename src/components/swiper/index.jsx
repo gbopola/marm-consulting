@@ -9,8 +9,8 @@ const SwiperSlider = forwardRef(
     (
         {
             options,
-            prevIcon,
-            nextIcon,
+            // prevIcon,
+            // nextIcon,
             children,
             className,
             navClass,

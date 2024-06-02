@@ -1,5 +1,5 @@
 import React from 'react';
-import YoutubeBackground from 'react-youtube-background'
+// import YoutubeBackground from 'react-youtube-background'
 import {Link} from "react-router-dom";
 
 const IntroTwo = () => {

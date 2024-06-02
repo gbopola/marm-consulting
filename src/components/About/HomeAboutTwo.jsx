@@ -2,17 +2,17 @@ import {useState, useEffect, useRef} from "react";
 import SectionTitleTwo from '../SectionTitles/SectionTitleTwo';
 import Tilt from 'react-parallax-tilt';
 import Parallax from 'parallax-js';
-import CountUp from 'react-countup';
-import VisibilitySensor from "react-visibility-sensor";
+// import CountUp from 'react-countup';
+// import VisibilitySensor from "react-visibility-sensor";
 
 const HomeAboutTwo = () => {
-    const [didViewCountUp, setDidViewCountUp] = useState(false);
+    // const [didViewCountUp, setDidViewCountUp] = useState(false);
 
-    const onVisibilityChange = isVisible => {
-        if (isVisible) {
-        setDidViewCountUp(true);
-        }
-    };
+    // const onVisibilityChange = isVisible => {
+    //     if (isVisible) {
+    //     setDidViewCountUp(true);
+    //     }
+    // };
     const [scale] = useState(1.04);
     const sceneEl = useRef(null);
     useEffect(() => {

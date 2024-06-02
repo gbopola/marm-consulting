@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import React from 'react';
 import ReactVivus from 'react-vivus';
-import {Link} from "react-router-dom";
+// import {Link} from "react-router-dom";
 
 const IconBox = ({ data, classOption }) => {
     return (

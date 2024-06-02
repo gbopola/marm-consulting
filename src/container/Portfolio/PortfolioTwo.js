@@ -1,11 +1,11 @@
 import React from 'react';
 import SectionTitle from '../../components/SectionTitles/SectionTitle';
-import useMasonry from "../../hooks/use-masonry";
-import WorkFilter from "../../components/Work/WorkFilter";
-import WorkItem from "../../components/Work/WorkItem";
-import workData from '../../data/work/workDetails.json';
+// import useMasonry from "../../hooks/use-masonry";
+// import WorkFilter from "../../components/Work/WorkFilter";
+// import WorkItem from "../../components/Work/WorkItem";
+// import workData from '../../data/work/workDetails.json';
 import '../../assets/images/portfolio/image-1.jpg'
-import {slugify} from "../../utils";
+// import {slugify} from "../../utils";
 
 const PortfolioTwo = () => {
   
