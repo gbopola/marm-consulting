@@ -1,0 +1,20 @@
+[
+    {
+    "id": "1",
+    "icon": "images/svg/linea/linea-basic-map.svg",
+    "title": "Our Locations",
+    "info": "48 Iwofe Road, Port Harcourt, Rivers State, Nigeria"
+    },
+    {
+    "id": "2",
+    "icon": "images/svg/linea/linea-basic-message-txt.svg",
+    "title": "Give Us A Call",
+    "info": "+234 90 7070 4200"
+    },
+    {
+    "id": "3",
+    "icon": "images/svg/linea/linea-basic-mail-open-text.svg",
+    "title": "Help Desk",
+    "info": "contact@marmconsultingservices.com"
+    }
+]

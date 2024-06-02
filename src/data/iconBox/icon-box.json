@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "icon": "images/svg/linea/linea-basic-target.svg",
+        "title": "Environmental Management",
+        "desc": "Sustainable strategies and solutions for managing environmental impacts and compliance requirements.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "2",
+        "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
+        "title": "Specialist Training",
+        "desc": "Customized training programs to enhance skills and knowledge in specialized fields.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "3",
+        "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
+        "title": "Specialist Recruitment",
+        "desc": "Expert recruitment services to find and place highly skilled professionals in niche areas.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "4",
+        "icon": "images/svg/linea/linea-basic-picture.svg",
+        "title": "Procurement Management",
+        "desc": "Efficient procurement strategies to optimize purchasing processes and supplier relationships.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "title": "Information Systems",
+        "desc": "Innovative IT solutions to enhance data management, security, and operational efficiency.",
+        "pageLink": "Learn More",
+        "link": "service"
+    },
+    {
+        "id": "6",
+        "icon": "images/svg/linea/linea-basic-gear.svg",
+        "title": "Telecommunications",
+        "desc": "Comprehensive telecom services to improve communication infrastructure and connectivity.",
+        "pageLink": "Learn More",
+        "link": "service"
+    }
+    
+    
+]
