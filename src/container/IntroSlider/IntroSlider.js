@@ -26,12 +26,12 @@ const IntroSlider =  () => {
                             </SwiperSlide>
                         ); 
                     })}
-                <div className="home-slider-next main-slider-nav swiper-button-next">
+                {/* <div className="home-slider-next main-slider-nav swiper-button-next">
                     <i className="fa fa-angle-right"></i>
                 </div>
                 <div className="home-slider-prev main-slider-nav swiper-button-prev">
                     <i className="fa fa-angle-left"></i>
-                </div>
+                </div> */}
             </SwiperSlider>
         </div>
     )

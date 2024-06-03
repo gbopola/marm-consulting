@@ -40,8 +40,8 @@ const MobileNavMenu = () => {
         <nav className="site-mobile-menu">
             <ul>
                 <li className="has-children">
-                    <NavLink to={process.env.PUBLIC_URL + "/"}><span className="menu-text">Homepage</span></NavLink>
-                    <span className="menu-toggle" onClick={onClickHandler}><i className="icon fa fa-angle-down"></i></span>
+                    <NavLink to={process.env.PUBLIC_URL + "/"}><span className="menu-text">Home</span></NavLink>
+                    {/* <span className="menu-toggle" onClick={onClickHandler}><i className="icon fa fa-angle-down"></i></span> */}
                     <ul className="sub-menu">
                         <li><NavLink to={process.env.PUBLIC_URL + "/home-one"}><span className="menu-text">Home One</span></NavLink></li>
                         <li><NavLink to={process.env.PUBLIC_URL + "/home-two"}><span className="menu-text">Home Two</span></NavLink></li>
@@ -51,11 +51,11 @@ const MobileNavMenu = () => {
                 <li>
                     <NavLink to={process.env.PUBLIC_URL + "/about"}><span className="menu-text">About Us</span></NavLink>
                 </li>
-                <li>
+                {/* <li>
                     <NavLink to={process.env.PUBLIC_URL + "/service"}><span className="menu-text">Services</span></NavLink>
-                </li>
+                </li> */}
                 <li className="has-children">
-                    <NavLink to={process.env.PUBLIC_URL + "/work"}><span className="menu-text">Work</span></NavLink>
+                    {/* <NavLink to={process.env.PUBLIC_URL + "/work"}><span className="menu-text">Work</span></NavLink> */}
                     <span className="menu-toggle" onClick={onClickHandler}><i className="far fa-angle-down"></i></span>
                     <ul className="sub-menu">
                         <li><NavLink to={process.env.PUBLIC_URL + "/work"}><span className="menu-text">Work</span></NavLink></li>
@@ -63,7 +63,7 @@ const MobileNavMenu = () => {
                     </ul>
                 </li>
                 <li className="has-children">
-                    <NavLink to={process.env.PUBLIC_URL + "/blog-grid"}><span className="menu-text">Blog</span></NavLink>
+                    {/* <NavLink to={process.env.PUBLIC_URL + "/blog-grid"}><span className="menu-text">Blog</span></NavLink> */}
                     <span className="menu-toggle" onClick={onClickHandler}><i className="far fa-angle-down"></i></span>
                     <ul className="sub-menu">
                         <li><NavLink to={process.env.PUBLIC_URL + "/blog-grid"}><span className="menu-text">Blog Grid</span></NavLink></li>
