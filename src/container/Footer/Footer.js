@@ -10,8 +10,8 @@ const Footer = () => {
             <div className="container">
                 <div className="row mb-lg-14 mb-md-10 mb-6">
 
-                    <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12 col-12 mb-6">
-                        <div className="footer-widget d-flex justify-content-between bg-primary w-100">
+                    <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12 col-12 mb-6 w-100">
+                        <div className="footer-widget   d-flex justify-content-between align-items-center">
                             <div className="footer-logo">
                                 <Logo 
                                     image={`${process.env.PUBLIC_URL}/images/logo/footer-logo.png`}
@@ -21,8 +21,8 @@ const Footer = () => {
                                 <div className="content">
 
 
-                                    <p><Link to={process.env.PUBLIC_URL + "/"}>(+1) 212-946-2701</Link></p>
-                                    <p><Link to={process.env.PUBLIC_URL + "/"}>hello@hasagency.com</Link> </p>
+                                    <p><Link to={process.env.PUBLIC_URL + "/"}>+234 90 7070 4200</Link></p>
+                                    <p><Link to={process.env.PUBLIC_URL + "/"}>contact@marmconsultingservices.com</Link> </p>
                                 </div>
                                 <div className="footer-social-inline">
                                     <a href="#"><i className="fab fa-twitter-square"></i></a>
