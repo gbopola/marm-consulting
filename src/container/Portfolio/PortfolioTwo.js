@@ -24,22 +24,22 @@ const PortfolioTwo = () => {
                 {/* <WorkFilter classOption="messonry-button text-center mb-lg-13 mb-md-13 mb-6" categories={categories} data-aos="fade-up"/> */}
 
                 <div className="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 g-0 mesonry-list">
-                     <div className='col-4' style={{background: "url('https://res.cloudinary.com/gbopola/image/upload/v1717330412/ngkwmgtvhbmfvgj6ijbd.jpg') no-repeat center center/cover", height: 500}}>
+                     <div className='col-4' style={{background: "url('https://res-console.cloudinary.com/gbopola/thumbnails/v1/image/upload/v1718730714/V2hhdHNBcHBfSW1hZ2VfMjAyNC0wNi0xN19hdF8xMC4yOC40MF90ZmFlYnQ=/drilldown') no-repeat center center/cover", height: 500}}>
                        
                      </div>
-                     <div className='col-4' style={{background: "url('https://res.cloudinary.com/gbopola/image/upload/v1717330412/ngkwmgtvhbmfvgj6ijbd.jpg') no-repeat center center/cover", height: 500}}>
+                     <div className='col-4' style={{background: "url('https://res-console.cloudinary.com/gbopola/thumbnails/v1/image/upload/v1718730774/V2hhdHNBcHBfSW1hZ2VfMjAyNC0wNi0xN19hdF8xMC4yOS4wNF96ZmRpODI=/drilldown') no-repeat center center/cover", height: 500}}>
                        
                      </div>
-                     <div className='col-4' style={{background: "url('https://res.cloudinary.com/gbopola/image/upload/v1717330412/ngkwmgtvhbmfvgj6ijbd.jpg') no-repeat center center/cover", height: 500}}>
+                     <div className='col-4' style={{background: "url('https://res-console.cloudinary.com/gbopola/thumbnails/v1/image/upload/v1718730825/V2hhdHNBcHBfSW1hZ2VfMjAyNC0wNi0xN19hdF8xMC4yOS4xOF90N2NpaWs=/drilldowng') no-repeat center center/cover", height: 500}}>
                        
                      </div>
-                     <div className='col-4' style={{background: "url('https://res.cloudinary.com/gbopola/image/upload/v1717330412/ngkwmgtvhbmfvgj6ijbd.jpg') no-repeat center center/cover", height: 500}}>
+                     <div className='col-4' style={{background: "url('https://res-console.cloudinary.com/gbopola/thumbnails/v1/image/upload/v1718730929/V2hhdHNBcHBfSW1hZ2VfMjAyNC0wNi0xN19hdF8xMC4yOS4yNl9qZWwyYmc=/drilldown') no-repeat center center/cover", height: 500}}>
                        
                      </div>
-                     <div className='col-4' style={{background: "url('https://res.cloudinary.com/gbopola/image/upload/v1717330412/ngkwmgtvhbmfvgj6ijbd.jpg') no-repeat center center/cover", height: 500}}>
+                     <div className='col-4' style={{background: "url('https://res-console.cloudinary.com/gbopola/thumbnails/v1/image/upload/v1718730973/V2hhdHNBcHBfSW1hZ2VfMjAyNC0wNi0xN19hdF8xMC4yOS40N19pMGhsdTk=/drilldown') no-repeat center center/cover", height: 500}}>
                        
                      </div>
-                     <div className='col-4' style={{background: "url('https://res.cloudinary.com/gbopola/image/upload/v1717330412/ngkwmgtvhbmfvgj6ijbd.jpg') no-repeat center center/cover", height: 500}}>
+                     <div className='col-4' style={{background: "url('https://res-console.cloudinary.com/gbopola/thumbnails/v1/image/upload/v1718731118/V2hhdHNBcHBfSW1hZ2VfMjAyNC0wNi0xN19hdF8xMC4zMS4wOF9zaTZ5ZXo=/drilldown') no-repeat center center/cover", height: 500}}>
                        
                      </div>
                      

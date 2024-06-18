@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "icon": "images/svg/linea/linea-basic-target.svg",
+        "icon": "images/svg/linea/earth.svg",
         "title": "Environmental Management",
         "desc": "Sustainable strategies and solutions for managing environmental impacts and compliance requirements.",
         "pageLink": "Learn More",
@@ -9,7 +9,7 @@
     },
     {
         "id": "2",
-        "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
+        "icon": "images/svg/linea/book.svg",
         "title": "Specialist Training",
         "desc": "Customized training programs to enhance skills and knowledge in specialized fields.",
         "pageLink": "Learn More",
@@ -17,7 +17,7 @@
     },
     {
         "id": "3",
-        "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
+        "icon": "images/svg/linea/users.svg",
         "title": "Specialist Recruitment",
         "desc": "Expert recruitment services to find and place highly skilled professionals in niche areas.",
         "pageLink": "Learn More",
@@ -25,7 +25,7 @@
     },
     {
         "id": "4",
-        "icon": "images/svg/linea/linea-basic-picture.svg",
+        "icon": "images/svg/linea/container.svg",
         "title": "Procurement Management",
         "desc": "Efficient procurement strategies to optimize purchasing processes and supplier relationships.",
         "pageLink": "Learn More",
@@ -33,7 +33,7 @@
     },
     {
         "id": "5",
-        "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "icon": "images/svg/linea/database.svg",
         "title": "Information Systems",
         "desc": "Innovative IT solutions to enhance data management, security, and operational efficiency.",
         "pageLink": "Learn More",
@@ -41,7 +41,7 @@
     },
     {
         "id": "6",
-        "icon": "images/svg/linea/linea-basic-gear.svg",
+        "icon": "images/svg/linea/nfc.svg",
         "title": "Telecommunications",
         "desc": "Comprehensive telecom services to improve communication infrastructure and connectivity.",
         "pageLink": "Learn More",

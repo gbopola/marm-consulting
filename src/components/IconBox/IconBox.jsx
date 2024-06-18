@@ -16,6 +16,7 @@ const IconBox = ({ data, classOption }) => {
                             delay: 80
                     }}
                 />
+                
             </div>
             <div className="content">
                 <h3 className="title">{data.title}</h3>
