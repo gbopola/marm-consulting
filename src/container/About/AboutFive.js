@@ -48,10 +48,12 @@ const AboutFive = () => {
                         <div className="about-content-area">
                             <SectionTitleTwo 
                                 subTitle="Our solutions begin with brand research"
-                                title="We’ve worked alongside plenty of brands &amp; startups"
+                                title="We’ve worked alongside plenty of organizations to deliver impactful solutions."
                             />
 
-                            <p>Our team of designers and developers are perfectionists who love what they do – we thrive off pushing the boundaries of our clients’ expectations and our own capabilities.</p>
+                            <p>In the field of material procurement and supply, MARM Consulting Services Limited
+engages an extensive range of experience working for customers. We work in close
+association with our client to achieve optimum profitability in our services.</p>
 
                             <Link className="btn btn-primary btn-hover-secondary mt-xl-12 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/"}>Get Started</Link>
                         </div>

@@ -33,10 +33,10 @@ const AboutFour = () => {
                         <div className="about-content-area mt-0 mb-md-10 mb-10">
                             <SectionTitleTwo 
                                 subTitle="Web design and digital marketing"
-                                title="We think strategy, UX design, and web development"
+                                title="Wealth of experience in the industry"
                             />
 
-                            <div className="row row-cols-sm-2 row-cols-auto mb-n6">
+                            {/* <div className="row row-cols-sm-2 row-cols-auto mb-n6">
                                 <div className="col mb-6">
                                     <div className="about-funfact">
                                         <div className="number">
@@ -67,6 +67,18 @@ const AboutFour = () => {
                                         <p>We help our clients increase profits by increasing their visibility online.</p>
                                     </div>
                                 </div>
+                            </div> */}
+                            <div>
+                                <p>Our management team has wealth of experience in Environmental, Engineering,
+                                Construction, Integrated Technology, and maintenance services for both onshore and
+                                offshore facilities. Our services, not limited to, but involves the business of environmental
+                                management specialists, information systems and communication, procurement
+                                management, specialist training, oil and gas exploration, sales, distribution of petroleum
+                                and its allied products, oil field services, haulage, logistics services, transportation by road,
+                                contracts, general construction, supplies, import/export, manufacturing, trading, leasing,
+                                marketing, distribution, manufacturers’ representatives, interior/exterior decorations,
+                                Engineering consulting and also operate as representatives, agents of and partners to
+                                foreign companies for the provision of services and sales of goods.</p>
                             </div>
                         </div>
                     </div>
