@@ -36,7 +36,7 @@ const PortfolioTwo = () => {
             className="col-12 col-sm-6 col-lg-4"
             style={{
               background:
-                "url('https://res-console.cloudinary.com/gbopola/thumbnails/v1/image/upload/v1718730774/V2hhdHNBcHBfSW1hZ2VfMjAyNC0wNi0xN19hdF8xMC4yOS4wNF96ZmRpODI=/drilldown') no-repeat center center/cover",
+                "url('images/project/portfolio-2.jpeg') no-repeat center center/cover",
               height: 500,
             }}
           ></div>
@@ -44,7 +44,7 @@ const PortfolioTwo = () => {
             className="col-12 col-sm-6 col-lg-4"
             style={{
               background:
-                "url('https://res-console.cloudinary.com/gbopola/thumbnails/v1/image/upload/v1718730825/V2hhdHNBcHBfSW1hZ2VfMjAyNC0wNi0xN19hdF8xMC4yOS4xOF90N2NpaWs=/drilldowng') no-repeat center center/cover",
+                "url('images/project/portfolio-3.jpeg') no-repeat center center/cover",
               height: 500,
             }}
           ></div>
@@ -52,7 +52,7 @@ const PortfolioTwo = () => {
             className="col-12 col-sm-6 col-lg-4"
             style={{
               background:
-                "url('https://res-console.cloudinary.com/gbopola/thumbnails/v1/image/upload/v1718730929/V2hhdHNBcHBfSW1hZ2VfMjAyNC0wNi0xN19hdF8xMC4yOS4yNl9qZWwyYmc=/drilldown') no-repeat center center/cover",
+                "url('images/project/portfolio-4.jpeg') no-repeat center center/cover",
               height: 500,
             }}
           ></div>
@@ -60,7 +60,7 @@ const PortfolioTwo = () => {
             className="col-12 col-sm-6 col-lg-4"
             style={{
               background:
-                "url('https://res-console.cloudinary.com/gbopola/thumbnails/v1/image/upload/v1718730973/V2hhdHNBcHBfSW1hZ2VfMjAyNC0wNi0xN19hdF8xMC4yOS40N19pMGhsdTk=/drilldown') no-repeat center center/cover",
+                "url('images/project/portfolio-5.jpeg') no-repeat center center/cover",
               height: 500,
             }}
           ></div>
@@ -68,7 +68,7 @@ const PortfolioTwo = () => {
             className="col-12 col-sm-6 col-lg-4"
             style={{
               background:
-                "url('https://res-console.cloudinary.com/gbopola/thumbnails/v1/image/upload/v1718731118/V2hhdHNBcHBfSW1hZ2VfMjAyNC0wNi0xN19hdF8xMC4zMS4wOF9zaTZ5ZXo=/drilldown') no-repeat center center/cover",
+                "url('images/project/portfolio-6.jpeg') no-repeat center center/cover",
               height: 500,
             }}
           ></div>
